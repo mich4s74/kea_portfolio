@@ -175,7 +175,6 @@ main > section {
   max-width: 75ch;
 }
 
-#third_section,
 footer {
   background-color: #e2e2e2;
 }
@@ -263,7 +262,7 @@ footer {
 
   #fifth_section .section_wrapper {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
   }
 
